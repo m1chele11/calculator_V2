@@ -3,7 +3,7 @@ This is a repository for project 1 and 2 resubmission
 # Iphone Calculator APP
 
 Description of the project:
-The app that was developed functions almost identical to that of the generic Apple OS calculator. I made the colors match that of the dark theme colors, since those are the ones I have on my phone and I used it as a reference. 
+The app that was developed functions almost identical to that of the generic Apple OS calculator. I made the colors match that of the dark theme colors, since those are the ones I have on my phone and I used it as a reference. this one can rotate between landscapes
 
 ## Functionality 
 
@@ -12,7 +12,8 @@ The following **required** functionality is completed:
 * [ ] User sees buttons with numbers and operators, and a display with there most recent number clicked. 
 * [ ] User can select any number they want 
 * [ ] User can click on any operator and execute the operation between multiple numbers
-* [ ] User can execute multiple operations consecutivley as long as a number is clicked in between operations. 
+* [ ] User can execute multiple operations consecutivley as long as a number is clicked in between operations.
+* [ ] User can rotate phone to acces more cameras
 
 The following **extensions** are implemented:
 
@@ -28,13 +29,13 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Notes
-I would have liked to implement a function or try and catch so that if the user enters to operators consecutevly it doesnt crash the app. and just ignores the users request. 
+the user can acces more buttons
 
 Describe any challenges encountered while building the app.
 
 One of the challenges was the issue described in notes. 
 Another was creating the gif.
-the one that took me the most time to solve was how to add fuctionality to the buttons and how to find a efficient way to do so, I tried making a styles sheet at first then setting an id or click to all of them but found that complicated. I didn't want to do indivudal click listenrs so I eneded up using an array of id's. Would like to know if there is a way to implement the style sheet or a better way. 
+
 
 ## License
 
